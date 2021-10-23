@@ -20,3 +20,7 @@ margin-top: 30%;
 .read-btn:hover{
   background-color:  #198754;
 }
+
+.headline{
+  margin-top: 6rem !important;
+}

@@ -29,7 +29,7 @@ const News = (props) => {
     return (
         <div>
             <div className="container">
-                <h1 className="text-center my-5">Top {capitalizeFirstLetter(props.category)} Headlines</h1>
+                <h1 className="text-center my-3 headline">Top {capitalizeFirstLetter(props.category)} Headlines</h1>
                 {loading && <Spinner />}
                 <div className="row">
                     {articles.map((element) => {

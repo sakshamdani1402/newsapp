@@ -49,9 +49,7 @@
 - **src/App.test.js:** Contains a simple test to check if the "learn react" link is present in the document.
 - **src/index.css:** Basic styling for the app.
 - **src/index.js:** The entry point of the application, rendering the App component and setting up performance reporting.
-- **src/logo.svg:** Contains the logo used in the application.
-- **src/reportWebVitals.js:** Used for measuring performance in the app.
-- **src/setupTests.js:** Sets up the testing environment using jest-dom.
+- **src/logo.svg:** Contains the logo used in the application
 
 ## How It Works
 

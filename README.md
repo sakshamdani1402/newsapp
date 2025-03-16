@@ -1,7 +1,3 @@
-Sure! Here is the formatted README content for your repository:
-
----
-
 # NewsRipple
 
 **NewsRipple** is a simple and responsive news website built using React.js. It displays the latest news articles from different categories such as Business, Health, Science, Sports, Entertainment, and Technology.
@@ -61,12 +57,7 @@ Sure! Here is the formatted README content for your repository:
 
 - **App.js:** Manages routing with React Router, displaying different categories of news such as Business, Sports, Technology, etc.
 - **index.js:** Renders the App component into the root element of the HTML.
-- **reportWebVitals.js:** Measures the performance of the app using web-vitals.
-- **setupTests.js:** Configures the testing environment for the app.
 
-## License
-
-This project is open-source and available under the MIT License.
 
 ## Acknowledgements
 
@@ -75,7 +66,3 @@ This project is open-source and available under the MIT License.
 - **React Router:** For handling page navigation.
 
 For more details, you can refer to the [repository](https://github.com/sakshamdani1402/newsapp).
-
----
-
-You can copy and paste this content into your README file.
